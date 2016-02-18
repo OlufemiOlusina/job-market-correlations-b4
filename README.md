@@ -1,11 +1,27 @@
-# job-market
-This repo contains the instructions for the job market data collection task and is the seed for the group assignment.
+# B6 Job Market Application Analytics
+Basic requirments 
 
-If you are reading this and you are not in a team (but feel you should be) please see your lecturer.
+Each * counts as one time it showed up
 
-## Instructions
-1. If you are the team creator, name it `[STREAM][number]`, meaning if you are in stream A and you are told to start team 1, name it `A1`.
-2. If you are assigned a team, join it.
-3. Access the team repo.
-4. Crunch the data you have all collected.
-5. Replace the contents of this README with the results. (That way your results will show up nicely displayed at the bottom of your team repo.)
+
+  1. PHP Programing *
+  2. CSS            **
+  3. JavaScript     **
+  4. MySQL          ***
+  5. Web Design     ****
+  6. Enthusiastic   ***
+  7. Posotive Atitude ***
+  8. Motivation **
+  9. Knowledg of web accesibility **
+  10. Understanding of cross platform & cross browser issues **
+  11. Able to install customize module/extensions in Magento *
+  12. Managing and completion in project **
+  13. Confidence    ***
+  14. Time managment *
+  15. Interpersonal skills *
+  16. .NET ***
+  17. Work experience ***
+  18. Comunication **
+  19. Linux *
+  20. Team player **
+  21. Wireless systems/networking *
